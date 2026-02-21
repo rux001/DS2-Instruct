@@ -1,6 +1,4 @@
-# DS²-INSTRUCT
-
-**Domain-Specific Data Synthesis for Large Language Models Instruction Tuning**
+**DS²-INSTRUCT: Domain-Specific Data Synthesis for Large Language Models Instruction Tuning**
 
 
 > A zero-shot framework that generates domain-specific instruction-tuning datasets without human supervision. 
