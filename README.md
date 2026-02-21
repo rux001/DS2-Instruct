@@ -3,8 +3,7 @@
 **Domain-Specific Data Synthesis for Large Language Models Instruction Tuning**
 
 
-> A zero-shot framework that generates domain-specific instruction-tuning datasets without human supervision. It creates task-informed keywords, pairs them with Bloom's Taxonomy cognitive levels to produce diverse instructions, and applies self-consistency filtering to ensure quality.
-
+> A zero-shot framework that generates domain-specific instruction-tuning datasets without human supervision. 
 ## Setup
 
 ```bash
@@ -44,4 +43,4 @@ bash shell/run_pipeline_azure_openai.sh cfa
 
 ## Output
 
-The final output is an SFT dataset in `output/{task}_sft_dataset.json`:
+The final output is an SFT dataset in `output/{task}_sft_dataset.json`
